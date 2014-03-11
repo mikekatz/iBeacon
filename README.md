@@ -14,6 +14,13 @@ iBeacon References
 ## Which devices support iBeacon?
 Rule of thumb: all lightning devices + iPhone 4s & retina iPad
 * [Official Apple list](http://support.apple.com/kb/HT6048)
+* What's the cheapest device to support iBeacon?
+     * [Refurbished iPod Touch 16gb (5th generation)](http://store.apple.com/us/browse/home/specialdeals/ipod/ipod_touch) $189
+     * [Refurbished iPad Mini Wi-Fi 16gb](http://store.apple.com/us/browse/home/specialdeals/ipad/ipad_mini/wi_fi) $249
 
 ## Blogs
 * [Beekn](http://beekn.net/)
+
+## Development Reminders/notes
+* `notifyEntryStateOnDisplay` if YES, will scan "immediately" for region changes when the phone wakes, otherwise it will wait for the normal bluetooth scan cycle.
+
