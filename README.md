@@ -18,6 +18,7 @@ Rule of thumb: all lightning devices + iPhone 4s & retina iPad
 * What's the cheapest device to support iBeacon?
      * [Refurbished iPod Touch 16gb (5th generation)](http://store.apple.com/us/browse/home/specialdeals/ipod/ipod_touch) $189
      * [Refurbished iPad Mini Wi-Fi 16gb](http://store.apple.com/us/browse/home/specialdeals/ipad/ipad_mini/wi_fi) $249
+
 ### What is the difference between beacons and iBeacons?
 * Beacon is a generic term for a device that just periodically broadcasts an identifier. This is commonly used in the mobile space to apply to range of Bluetooth LE devices. iBeacon is a subset of becaons conforming to a particular specification.
 * [iBeacon spec](https://mfi.apple.com/) (requires MFI (Made for iOS) enrollment)
