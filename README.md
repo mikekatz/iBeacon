@@ -37,4 +37,5 @@ Rule of thumb: all lightning devices + iPhone 4s & retina iPad
 ## iBeacon Manufacturers
 * [Appflare](http://www.appflare.com/buy-beacons-now/), small battery-powered
 * [Estimote](http://estimote.com/), medium battery-powered
+* [Gelo](http://www.gelosite.com), medium battery-powered, suitable for outdoor use, iBeacon coming soon
 * [Gimbal](https://gimbal.com/) by Qualcomm, small battery-powered (NOT iBeacon) and medium battery-powered (iBeacon)
