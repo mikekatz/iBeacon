@@ -34,3 +34,7 @@ Rule of thumb: all lightning devices + iPhone 4s & retina iPad
 * Notification events may not be immediate, [https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/RegionMonitoring/RegionMonitoring.html#//apple_ref/doc/uid/TP40009497-CH9-SW11](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/RegionMonitoring/RegionMonitoring.html#//apple_ref/doc/uid/TP40009497-CH9-SW11)
 * Monitored regions are persisted across app launches, so no notificaiton is posted if starting inside a region. Either preserve UI state, or use a trick like  [KCSIBeacon](https://github.com/KinveyLabs/KCSIBeacon/) to restart the region monitoring. 
 
+## iBeacon Manufacturers
+* [Appflare](http://www.appflare.com/buy-beacons-now/), small battery-powered
+* [Estimote](http://estimote.com/), medium battery-powered
+* [Gimbal](https://gimbal.com/) by Qualcomm, small battery-powered (NOT iBeacon) and medium battery-powered (iBeacon)
