@@ -37,8 +37,11 @@ Rule of thumb: all lightning devices + iPhone 4s & retina iPad
 
 ## iBeacon Manufacturers
 * [Appflare](http://www.appflare.com/buy-beacons-now/), small battery-powered
-* [Blue Station](http://twocanoes.com/bleu), smal USB
+* [Bleu Station](http://twocanoes.com/bleu), smal USB
+* [Bluesense](http://bluesensenetworks.com/shop/), medium-sized, not sure if they support iBeacon, retail-focused
 * [Estimote](http://estimote.com/), medium battery-powered
 * [Gelo](http://www.gelosite.com), medium battery-powered, suitable for outdoor use, iBeacon coming soon
 * [Gimbal](https://gimbal.com/) by Qualcomm, small battery-powered (NOT iBeacon) and medium battery-powered (iBeacon)
 * [Radius](http://www.radiusnetworks.com) several form factors, including USB, also have good tutorials, blog and open source utilities
+* [Sensorberg](http://www.sensorberg.com/), expensive
+* [Sonic Notify](https://sonicnotify.com/), retail-focused
