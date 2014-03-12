@@ -30,4 +30,5 @@ Rule of thumb: all lightning devices + iPhone 4s & retina iPad
 
 ## Development Reminders/notes
 * `notifyEntryStateOnDisplay` if YES, will scan "immediately" for region changes when the phone wakes, otherwise it will wait for the normal bluetooth scan cycle.
+* Notification events may not be immediate, [https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/RegionMonitoring/RegionMonitoring.html#//apple_ref/doc/uid/TP40009497-CH9-SW11](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/RegionMonitoring/RegionMonitoring.html#//apple_ref/doc/uid/TP40009497-CH9-SW11)
 
