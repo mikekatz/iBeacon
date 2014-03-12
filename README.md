@@ -28,6 +28,7 @@ Rule of thumb: all lightning devices + iPhone 4s & retina iPad
 
 ## Blogs
 * [Beekn](http://beekn.net/)
+* [Radius Networks](http://developer.radiusnetworks.com/blog/)
 
 ## Development Reminders/notes
 * `notifyEntryStateOnDisplay` if YES, will scan "immediately" for region changes when the phone wakes, otherwise it will wait for the normal bluetooth scan cycle.
@@ -36,6 +37,8 @@ Rule of thumb: all lightning devices + iPhone 4s & retina iPad
 
 ## iBeacon Manufacturers
 * [Appflare](http://www.appflare.com/buy-beacons-now/), small battery-powered
+* [Blue Station](http://twocanoes.com/bleu), smal USB
 * [Estimote](http://estimote.com/), medium battery-powered
 * [Gelo](http://www.gelosite.com), medium battery-powered, suitable for outdoor use, iBeacon coming soon
 * [Gimbal](https://gimbal.com/) by Qualcomm, small battery-powered (NOT iBeacon) and medium battery-powered (iBeacon)
+* [Radius](http://www.radiusnetworks.com) several form factors, including USB, also have good tutorials, blog and open source utilities
