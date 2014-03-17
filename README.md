@@ -35,6 +35,7 @@ Rule of thumb: all lightning devices + iPhone 4s & retina iPad
 * Notification events may not be immediate, [https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/RegionMonitoring/RegionMonitoring.html#//apple_ref/doc/uid/TP40009497-CH9-SW11](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/RegionMonitoring/RegionMonitoring.html#//apple_ref/doc/uid/TP40009497-CH9-SW11)
 * Monitored regions are persisted across app launches, so no notificaiton is posted if starting inside a region. Either preserve UI state, or use a trick like  [KCSIBeacon](https://github.com/KinveyLabs/KCSIBeacon/) to restart the region monitoring. 
 * The accuracy value is kinda a guess of distance, and can vary wildly by relative signal strength, room layout, and people and radio interference. Best attempt to get a compartivie distance is to first use the proximity enum and then compare accuracy within that. __NOTE:__ that if a beacon dissapears or has trouble ranging, it might have it's last proximity value set, so accuracy has to be checked that it is not -1. And `CLProximityUnknown` does not mean it isn't nearby.
+* Helpful info: [http://beekn.net/developing-ibeacon-app/](http://beekn.net/developing-ibeacon-app/)
 
 ## iBeacon Manufacturers
 * [Appflare](http://www.appflare.com/buy-beacons-now/), small battery-powered
