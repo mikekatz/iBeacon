@@ -44,6 +44,7 @@ Rule of thumb: all lightning devices + iPhone 4s & retina iPad
 * [Estimote](http://estimote.com/), medium battery-powered
 * [Gelo](http://www.gelosite.com), medium battery-powered, suitable for outdoor use, iBeacon coming soon
 * [Gimbal](https://gimbal.com/) by Qualcomm, small battery-powered (NOT iBeacon) and medium battery-powered (iBeacon)
+* [Jaalee](http://www.jaalee.com/beacon_en.html) Small, lightweight. I haven't tried these out, but they might be iBeacon compatible and customizable based on their website. Available in many colors. 
 * [Radius](http://www.radiusnetworks.com) several form factors, including USB, also have good tutorials, blog and open source utilities
 * [Sensorberg](http://www.sensorberg.com/), expensive
 * [Sonic Notify](https://sonicnotify.com/), retail-focused
