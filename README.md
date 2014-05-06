@@ -12,6 +12,14 @@ iBeacon References
 * Radius tools for OSX - [http://developer.radiusnetworks.com/ibeacon](http://developer.radiusnetworks.com/ibeacon)
 * [BeaconOSX](https://github.com/mttrb/BeaconOSX) - turn a Mavericks mac into an iBeacon
 
+
+### Android
+* [Radius Library](http://developer.radiusnetworks.com/ibeacon/android/)
+
+
+### Phonegap
+* [Plugins](http://plugreg.com/search?q=ibeacon)
+
 ## FAQ
 ### Which devices support iBeacon?
 Rule of thumb: all lightning devices + iPhone 4s & retina iPad
